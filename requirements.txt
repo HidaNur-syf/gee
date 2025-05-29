@@ -1,0 +1,8 @@
+Flask
+flask-cors
+earthengine-api
+gunicorn
+pandas
+matplotlib
+requests
+python-dotenv
